@@ -1,2 +1,8 @@
 /JWTDemo/obj
 /JWTDemo/bin
+/JWTDemo/Properties/PublishProfiles
+/.vs/JWTDemo/DesignTimeBuild
+/.vs/JWTDemo/v16/Server/sqlite3/db.lock
+/.vs/JWTDemo/v16/Server/sqlite3/storage.ide
+/.vs/JWTDemo/v16/Server/sqlite3/storage.ide-shm
+/.vs/JWTDemo/v16/Server/sqlite3/storage.ide-wal
